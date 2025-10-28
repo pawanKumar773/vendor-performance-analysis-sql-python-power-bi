@@ -1,0 +1,273 @@
+2025-08-27 05:18:28,706 - INFO - Ingesting deliveries.csv in db
+2025-08-27 05:18:44,804 - INFO - Ingesting Player.csv in db
+2025-08-27 05:18:44,900 - INFO - Ingesting Player_Match.csv in db
+2025-08-27 05:18:45,207 - INFO - Ingestion Complete
+2025-08-27 05:18:45,207 - INFO - 
+Total time Taken :0.29655800263086957 minutes
+2025-08-27 05:40:52,685 - INFO - Ingesting deliveries.csv in db
+2025-08-27 05:41:09,802 - INFO - Ingesting Player.csv in db
+2025-08-27 05:41:09,906 - INFO - Ingesting Player_Match.csv in db
+2025-08-27 05:41:10,209 - INFO - Ingestion Complete
+2025-08-27 05:41:10,209 - INFO - 
+Total time Taken :0.3139590819676717 minutes
+2025-08-27 05:54:43,035 - INFO - Ingesting deliveries.csv into DB...
+2025-08-27 05:54:59,854 - INFO - Loaded 260920 rows into table: deliveries
+2025-08-27 05:54:59,878 - INFO - Ingesting Player.csv into DB...
+2025-08-27 05:54:59,971 - INFO - Loaded 523 rows into table: Player
+2025-08-27 05:55:00,004 - INFO - Ingesting Player_Match.csv into DB...
+2025-08-27 05:55:00,342 - INFO - Loaded 12694 rows into table: Player_Match
+2025-08-27 05:55:00,342 - INFO - Ingestion complete
+2025-08-27 05:55:00,350 - INFO - Total time: 18.66 sec
+2025-08-27 06:36:00,662 - INFO - Ingesting deliveries.csv into DB...
+2025-08-27 06:36:17,711 - INFO - Loaded 260920 rows into table: deliveries
+2025-08-27 06:36:17,736 - INFO - Ingesting Player.csv into DB...
+2025-08-27 06:36:17,836 - INFO - Loaded 523 rows into table: Player
+2025-08-27 06:36:17,868 - INFO - Ingesting Player_Match.csv into DB...
+2025-08-27 06:36:18,213 - INFO - Loaded 12694 rows into table: Player_Match
+2025-08-27 06:36:18,213 - INFO - Ingestion complete
+2025-08-27 06:36:18,221 - INFO - Total time: 18.95 sec
+2025-08-27 06:36:57,735 - INFO - Ingesting C:\Users\Acer\data analytics\delivery data\deliveries.csv into table 'deliveries' ...
+2025-08-27 06:37:05,250 - INFO - Loaded 260920 rows into table: deliveries
+2025-08-27 06:37:05,250 - INFO - Ingesting C:\Users\Acer\data analytics\delivery data\player_match.csv into table 'player_match' ...
+2025-08-27 06:37:05,298 - ERROR - Error loading C:\Users\Acer\data analytics\delivery data\player_match.csv: table "player_match" already exists
+2025-08-27 06:37:05,306 - INFO - Ingesting C:\Users\Acer\data analytics\delivery data\player.csv into table 'player' ...
+2025-08-27 06:37:05,330 - ERROR - Error loading C:\Users\Acer\data analytics\delivery data\player.csv: table "player" already exists
+2025-08-27 06:37:05,338 - INFO - Tables in DB:
+2025-08-27 06:37:05,354 - INFO - 
+           name
+0        Player
+1  Player_Match
+2    deliveries
+2025-08-27 06:37:05,362 - INFO - Ingestion complete.
+2025-08-27 07:15:09,458 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-27 07:15:09,482 - WARNING - No such comm: d1755e41-775c-4e29-86b9-39884e479660
+2025-09-03 09:17:41,951 - INFO - Ingesting deliveries.csv into DB...
+2025-09-03 09:17:59,947 - INFO - Loaded 260920 rows into table: deliveries
+2025-09-03 09:18:00,013 - INFO - Ingesting Player.csv into DB...
+2025-09-03 09:18:00,141 - INFO - Loaded 523 rows into table: Player
+2025-09-03 09:18:00,224 - INFO - Ingesting Player_Match.csv into DB...
+2025-09-03 09:18:00,548 - INFO - Loaded 12694 rows into table: Player_Match
+2025-09-03 09:18:00,548 - INFO - Ingestion complete
+2025-09-03 09:18:00,557 - INFO - Total time: 19.97 sec
+2025-09-03 09:18:08,696 - INFO - Ingesting C:\Users\Acer\data analytics\delivery data\deliveries.csv into table 'deliveries' ...
+2025-09-03 09:18:16,487 - INFO - Loaded 260920 rows into table: deliveries
+2025-09-03 09:18:16,487 - INFO - Ingesting C:\Users\Acer\data analytics\delivery data\player_match.csv into table 'player_match' ...
+2025-09-03 09:18:16,556 - ERROR - Error loading C:\Users\Acer\data analytics\delivery data\player_match.csv: table "player_match" already exists
+2025-09-03 09:18:16,556 - INFO - Ingesting C:\Users\Acer\data analytics\delivery data\player.csv into table 'player' ...
+2025-09-03 09:18:16,579 - ERROR - Error loading C:\Users\Acer\data analytics\delivery data\player.csv: table "player" already exists
+2025-09-03 09:18:16,596 - INFO - Tables in DB:
+2025-09-03 09:18:16,621 - INFO - 
+           name
+0        Player
+1  Player_Match
+2    deliveries
+2025-09-03 09:18:16,639 - INFO - Ingestion complete.
+2025-09-03 09:21:05,349 - INFO - Ingesting deliveries.csv into DB...
+2025-09-03 09:21:21,042 - INFO - Loaded 260920 rows into table: deliveries
+2025-09-03 09:21:21,081 - INFO - Ingesting Player.csv into DB...
+2025-09-03 09:21:21,147 - INFO - Loaded 523 rows into table: Player
+2025-09-03 09:21:21,180 - INFO - Ingesting Player_Match.csv into DB...
+2025-09-03 09:21:21,475 - INFO - Loaded 12694 rows into table: Player_Match
+2025-09-03 09:21:21,475 - INFO - Ingestion complete
+2025-09-03 09:21:21,475 - INFO - Total time: 17.50 sec
+2025-09-03 09:22:31,293 - INFO - Ingesting deliveries.csv into DB...
+2025-09-03 09:22:48,199 - INFO - Loaded 260920 rows into table: deliveries
+2025-09-03 09:22:48,239 - INFO - Ingesting Player.csv into DB...
+2025-09-03 09:22:48,335 - INFO - Loaded 523 rows into table: Player
+2025-09-03 09:22:48,376 - INFO - Ingesting Player_Match.csv into DB...
+2025-09-03 09:22:48,689 - INFO - Loaded 12694 rows into table: Player_Match
+2025-09-03 09:22:48,689 - INFO - Ingestion complete
+2025-09-03 09:22:48,701 - INFO - Total time: 18.88 sec
+2025-09-03 09:33:43,629 - INFO - Ingesting C:\Users\Acer\data analytics\inventry dataset\begin_inventory.csv into table 'begin_inventry' ...
+2025-09-03 09:33:47,098 - INFO - Loaded 206529 rows into table: begin_inventry
+2025-09-03 09:33:47,098 - INFO - Ingesting C:\Users\Acer\data analytics\inventry dataset\end_inventory.csv into table 'end_inventry' ...
+2025-09-03 09:33:50,479 - INFO - Loaded 224489 rows into table: end_inventry
+2025-09-03 09:33:50,479 - INFO - Ingesting C:\Users\Acer\data analytics\inventry dataset\purchase_prices.csv into table 'purchase_price' ...
+2025-09-03 09:33:50,760 - INFO - Loaded 12261 rows into table: purchase_price
+2025-09-03 09:33:50,760 - INFO - Ingesting C:\Users\Acer\data analytics\inventry dataset\purchases.csv into table 'purchases' ...
+2025-09-03 09:34:47,402 - INFO - Loaded 2372474 rows into table: purchases
+2025-09-03 09:34:47,449 - INFO - Ingesting C:\Users\Acer\data analytics\inventry dataset\sales.csv into table 'sales' ...
+2025-09-03 09:41:46,871 - INFO - Loaded 12825363 rows into table: sales
+2025-09-03 09:41:46,918 - INFO - Ingesting C:\Users\Acer\data analytics\inventry dataset\vendor_invoice.csv into table 'vendor_invoice' ...
+2025-09-03 09:41:50,480 - INFO - Loaded 5543 rows into table: vendor_invoice
+2025-09-03 09:41:50,531 - INFO - Tables in DB:
+2025-09-03 09:41:50,606 - INFO - 
+             name
+0      deliveries
+1          Player
+2    Player_Match
+3  begin_inventry
+4    end_inventry
+5  purchase_price
+6       purchases
+7           sales
+8  vendor_invoice
+2025-09-03 09:41:50,624 - INFO - Ingestion complete.
+2025-10-12 23:34:49,999 - INFO - Ingesting begin_inventory.csv in db
+2025-10-12 23:34:58,177 - INFO - Ingesting end_inventory.csv in db
+2025-10-12 23:35:24,943 - INFO - Ingesting purchases.csv in db
+2025-10-12 23:38:50,653 - INFO - Ingesting purchase_prices.csv in db
+2025-10-13 02:34:20,926 - ERROR - No such comm target registered: jupyter.widget.control
+2025-10-13 02:34:21,395 - WARNING - No such comm: 1758edde-b499-45c2-9d8d-4144645c9fd9
+2025-10-16 00:41:51,768 - INFO - Creating Vendor Summary Table .....
+2025-10-16 00:44:32,516 - INFO -    VendorNumber                               VendorName  Brand  \
+0             2  IRA GOLDMAN AND WILLIAMS, LLP            90085   
+1             2  IRA GOLDMAN AND WILLIAMS, LLP            90609   
+2            54              AAPER ALCOHOL & CHEMICAL CO    990   
+3            60              ADAMBA IMPORTS INTL INC        771   
+4            60              ADAMBA IMPORTS INTL INC       3401   
+
+                    Description Volume  actual_price  PurchasePrice  \
+0  Ch Lilian 09 Ladouys St Este    750         36.99          23.86   
+1  Flavor Essence Variety 5 Pak  162.5         24.99          17.00   
+2       Ethyl Alcohol 200 Proof   3750        134.49         105.07   
+3   Bak's Krupnik Honey Liqueur    750         14.99          11.44   
+4                  Vesica Vodka   1750         14.99          11.10   
+
+   total_quantity_purchase  total_dollar_purchase  total_Quantity_sale  \
+0                        8                 190.88                 18.0   
+1                      320                5440.00                 24.0   
+2                        1                 105.07                  NaN   
+3                       39                 446.16                 47.0   
+4                        6                  66.60                  NaN   
+
+   total_sale_price  total_sale_dollar  total_excise_tax  \
+0            295.92             665.82              2.00   
+1            449.82             599.76              0.52   
+2               NaN                NaN               NaN   
+3            494.67             704.53             37.01   
+4               NaN                NaN               NaN   
+
+   total_quantity_invoice  total_dollar_invoice  total_freight_cost  
+0                     328               5630.88               27.08  
+1                     328               5630.88               27.08  
+2                       1                105.07                0.48  
+3                    4732              76770.25              367.52  
+4                    4732              76770.25              367.52  
+2025-10-16 00:44:32,544 - INFO - Cleaning Data ............
+2025-10-16 00:44:32,607 - INFO -    VendorNumber                               VendorName  Brand  \
+0             2  IRA GOLDMAN AND WILLIAMS, LLP            90085   
+1             2  IRA GOLDMAN AND WILLIAMS, LLP            90609   
+2            54              AAPER ALCOHOL & CHEMICAL CO    990   
+3            60              ADAMBA IMPORTS INTL INC        771   
+4            60              ADAMBA IMPORTS INTL INC       3401   
+
+                    Description Volume  actual_price  PurchasePrice  \
+0  Ch Lilian 09 Ladouys St Este    750         36.99          23.86   
+1  Flavor Essence Variety 5 Pak  162.5         24.99          17.00   
+2       Ethyl Alcohol 200 Proof   3750        134.49         105.07   
+3   Bak's Krupnik Honey Liqueur    750         14.99          11.44   
+4                  Vesica Vodka   1750         14.99          11.10   
+
+   total_quantity_purchase  total_dollar_purchase  total_Quantity_sale  \
+0                        8                 190.88                 18.0   
+1                      320                5440.00                 24.0   
+2                        1                 105.07                  NaN   
+3                       39                 446.16                 47.0   
+4                        6                  66.60                  NaN   
+
+   total_sale_price  total_sale_dollar  total_excise_tax  \
+0            295.92             665.82              2.00   
+1            449.82             599.76              0.52   
+2               NaN                NaN               NaN   
+3            494.67             704.53             37.01   
+4               NaN                NaN               NaN   
+
+   total_quantity_invoice  total_dollar_invoice  total_freight_cost  
+0                     328               5630.88               27.08  
+1                     328               5630.88               27.08  
+2                       1                105.07                0.48  
+3                    4732              76770.25              367.52  
+4                    4732              76770.25              367.52  
+2025-10-16 00:44:32,626 - INFO - Ingesting data.....
+2025-10-16 00:44:32,859 - INFO - Completed
+2025-10-16 04:28:01,353 - INFO - Creating Vendor Summary Table .....
+2025-10-16 04:30:47,949 - INFO -    VendorNumber                               VendorName  Brand  \
+0             2  IRA GOLDMAN AND WILLIAMS, LLP            90085   
+1             2  IRA GOLDMAN AND WILLIAMS, LLP            90609   
+2            54              AAPER ALCOHOL & CHEMICAL CO    990   
+3            60              ADAMBA IMPORTS INTL INC        771   
+4            60              ADAMBA IMPORTS INTL INC       3401   
+
+                    Description Volume  actual_price  PurchasePrice  \
+0  Ch Lilian 09 Ladouys St Este    750         36.99          23.86   
+1  Flavor Essence Variety 5 Pak  162.5         24.99          17.00   
+2       Ethyl Alcohol 200 Proof   3750        134.49         105.07   
+3   Bak's Krupnik Honey Liqueur    750         14.99          11.44   
+4                  Vesica Vodka   1750         14.99          11.10   
+
+   total_quantity_purchase  total_dollar_purchase  total_Quantity_sale  \
+0                        8                 190.88                 18.0   
+1                      320                5440.00                 24.0   
+2                        1                 105.07                  NaN   
+3                       39                 446.16                 47.0   
+4                        6                  66.60                  NaN   
+
+   total_sale_price  total_sale_dollar  total_excise_tax  \
+0            295.92             665.82              2.00   
+1            449.82             599.76              0.52   
+2               NaN                NaN               NaN   
+3            494.67             704.53             37.01   
+4               NaN                NaN               NaN   
+
+   total_quantity_invoice  total_dollar_invoice  total_freight_cost  
+0                     328               5630.88               27.08  
+1                     328               5630.88               27.08  
+2                       1                105.07                0.48  
+3                    4732              76770.25              367.52  
+4                    4732              76770.25              367.52  
+2025-10-16 04:30:48,455 - INFO - Cleaning Data ............
+2025-10-16 04:30:48,731 - INFO -    VendorNumber                               VendorName  Brand  \
+0             2  IRA GOLDMAN AND WILLIAMS, LLP            90085   
+1             2  IRA GOLDMAN AND WILLIAMS, LLP            90609   
+2            54              AAPER ALCOHOL & CHEMICAL CO    990   
+3            60              ADAMBA IMPORTS INTL INC        771   
+4            60              ADAMBA IMPORTS INTL INC       3401   
+
+                    Description Volume  actual_price  PurchasePrice  \
+0  Ch Lilian 09 Ladouys St Este    750         36.99          23.86   
+1  Flavor Essence Variety 5 Pak  162.5         24.99          17.00   
+2       Ethyl Alcohol 200 Proof   3750        134.49         105.07   
+3   Bak's Krupnik Honey Liqueur    750         14.99          11.44   
+4                  Vesica Vodka   1750         14.99          11.10   
+
+   total_quantity_purchase  total_dollar_purchase  total_Quantity_sale  \
+0                        8                 190.88                 18.0   
+1                      320                5440.00                 24.0   
+2                        1                 105.07                  NaN   
+3                       39                 446.16                 47.0   
+4                        6                  66.60                  NaN   
+
+   total_sale_price  total_sale_dollar  total_excise_tax  \
+0            295.92             665.82              2.00   
+1            449.82             599.76              0.52   
+2               NaN                NaN               NaN   
+3            494.67             704.53             37.01   
+4               NaN                NaN               NaN   
+
+   total_quantity_invoice  total_dollar_invoice  total_freight_cost  
+0                     328               5630.88               27.08  
+1                     328               5630.88               27.08  
+2                       1                105.07                0.48  
+3                    4732              76770.25              367.52  
+4                    4732              76770.25              367.52  
+2025-10-16 04:30:48,755 - INFO - Ingesting data.....
+2025-10-16 04:30:49,039 - INFO - Completed
+2025-10-16 04:35:46,408 - INFO - Database connection established.
+2025-10-16 04:35:46,408 - INFO - Creating Vendor Summary Table ...
+2025-10-16 04:38:17,182 - INFO - Summary DataFrame created with shape (10648, 16)
+2025-10-16 04:38:17,182 - INFO - Cleaning and transforming data ...
+2025-10-16 04:38:17,283 - INFO - Cleaned DataFrame ready with shape (10648, 20)
+2025-10-16 04:38:17,283 - INFO - Ingesting data into database ...
+2025-10-16 04:38:17,493 - INFO - Data ingestion completed successfully.
+2025-10-16 04:38:17,493 - INFO - Total execution time: 151.09 seconds
+2025-10-16 04:38:17,493 - INFO - Database connection closed.
+2025-10-16 06:16:28,801 - INFO - Database connection established.
+2025-10-16 06:16:28,808 - INFO - Creating Vendor Summary Table ...
+2025-10-16 06:19:15,061 - INFO - Summary DataFrame created with shape (10648, 16)
+2025-10-16 06:19:15,061 - INFO - Cleaning and transforming data ...
+2025-10-16 06:19:15,150 - INFO - Cleaned DataFrame ready with shape (10648, 20)
+2025-10-16 06:19:15,150 - INFO - Ingesting data into database ...
+2025-10-16 06:19:15,421 - INFO - Data ingestion completed successfully.
+2025-10-16 06:19:15,423 - INFO - Total execution time: 166.62 seconds
+2025-10-16 06:19:15,423 - INFO - Database connection closed.
