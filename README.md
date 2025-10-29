@@ -55,33 +55,38 @@ The dataset vendor_summary_data.csv provides detailed insights into vendor-level
 It includes financial metrics, profit margins, turnover rates, and sales-to-purchase ratios — all crucial for analyzing vendor efficiency and profitability.
 
 ### 🧾 Basic Information
-Metric	Value
-File Name	vendor_summary_data.csv
-Total Rows	10,648
-Total Columns	18
-Missing Values	None
-File Type	CSV (Comma-Separated Values)
+
+| **Metric**         | **Value**                    |
+| ------------------ | ---------------------------- |
+| **File Name**      | `vendor_summary_data.csv`    |
+| **Total Rows**     | 10,648                       |
+| **Total Columns**  | 18                           |
+| **Missing Values** | None                         |
+| **File Type**      | CSV (Comma-Separated Values) |
 
 ### 🧱 Column Details and Descriptions
-Column Name	Data Type	Description
-VendorNumber	int64	Unique identifier assigned to each vendor.
-VendorName	object	The registered business name of the vendor.
-Brand	int64	Numeric code representing the brand or product line.
-Description	object	Product name or description supplied by the vendor.
-Volume	float64	Quantity or size of product units (e.g., ml, liters, etc.).
-actual_price	float64	Actual retail selling price per unit.
-PurchasePrice	float64	Cost price per unit at which the vendor sells the product.
-total_quantity_purchase	int64	Total quantity purchased from the vendor.
-total_dollar_purchase	float64	Total purchase cost in dollars.
-total_Quantity_sale	float64	Total quantity of items sold.
-total_sale_price	float64	Combined selling price for all sold units.
-total_sale_dollar	float64	Total revenue generated from sales.
-total_excise_tax	float64	Total tax levied on the sale of the vendor’s products.
-total_freight_cost	float64	Transportation or logistics cost associated with vendor deliveries.
-gross_profit	float64	Total profit (Revenue - Cost). Indicates vendor profitability.
-margin	float64	Profit margin ratio (Gross Profit / Sales Revenue).
-turnOver	float64	Frequency of inventory turnover; higher values indicate faster sales cycles.
-sale_to_purchase_ratio	float64	Ratio of sales to purchases, showing vendor performance efficiency.
+
+| **Column Name**             | **Data Type** | **Description**                                                              |
+| --------------------------- | ------------- | ---------------------------------------------------------------------------- |
+| **VendorNumber**            | int64         | Unique identifier assigned to each vendor.                                   |
+| **VendorName**              | object        | The registered business name of the vendor.                                  |
+| **Brand**                   | int64         | Numeric code representing the brand or product line.                         |
+| **Description**             | object        | Product name or description supplied by the vendor.                          |
+| **Volume**                  | float64       | Quantity or size of product units (e.g., ml, liters, etc.).                  |
+| **actual_price**            | float64       | Actual retail selling price per unit.                                        |
+| **PurchasePrice**           | float64       | Cost price per unit at which the vendor sells the product.                   |
+| **total_quantity_purchase** | int64         | Total quantity purchased from the vendor.                                    |
+| **total_dollar_purchase**   | float64       | Total purchase cost in dollars.                                              |
+| **total_Quantity_sale**     | float64       | Total quantity of items sold.                                                |
+| **total_sale_price**        | float64       | Combined selling price for all sold units.                                   |
+| **total_sale_dollar**       | float64       | Total revenue generated from sales.                                          |
+| **total_excise_tax**        | float64       | Total tax levied on the sale of the vendor’s products.                       |
+| **total_freight_cost**      | float64       | Transportation or logistics cost associated with vendor deliveries.          |
+| **gross_profit**            | float64       | Total profit (Revenue - Cost). Indicates vendor profitability.               |
+| **margin**                  | float64       | Profit margin ratio (Gross Profit / Sales Revenue).                          |
+| **turnOver**                | float64       | Frequency of inventory turnover; higher values indicate faster sales cycles. |
+| **sale_to_purchase_ratio**  | float64       | Ratio of sales to purchases, showing vendor performance efficiency.          |
+
 ## 🧩 Combined Data Model
 
 After merging these three files, new features were engineered:
@@ -134,6 +139,7 @@ vendor-performance-analysis/
 │   └── vendor_performance_Analysis.ipynb
 │
 ├── dashboard/
+│   ├── Dashboard_1.png
 │   └── vendor_performance_analysis.pbix
 │
 ├── reports/
@@ -141,6 +147,7 @@ vendor-performance-analysis/
 │
 └── logs/
     └── ingestion_db.log
+
 
 ---
 
@@ -195,24 +202,23 @@ Interactive insights include:
 ---
 
 ## 💻 How to Run This Project
-###🪜 Step 1 — Clone the Repository
+
+### Step 1: Clone the repository
 git clone https://github.com/yourusername/vendor-performance-analysis.git
 cd vendor-performance-analysis
 
-### 🪜 Step 2 — Run Data Ingestion Script
+### Step 2: Run ingestion script
 python ingestion_db.py
 
-### 🪜 Step 3 — Generate Vendor Summary Table
+### Step 3: Generate vendor summary table
 python sale_summary_script.py
 
-### 🪜 Step 4 — Perform EDA and Analysis
+### Step 4: Open Jupyter notebooks for analysis
 jupyter notebook notebooks/eda_Vendor_sale_summary_analysis.ipynb
 jupyter notebook notebooks/vendor_performance_Analysis.ipynb
 
-### 🪜 Step 5 — View Dashboard
-
-Open Power BI → Load file
-dashboard/vendor_performance_analysis.pbix
+### Step 5: View dashboard
+# Open Power BI → Load dashboard/vendor_performance_analysis.pbix
 
 ## 🧭 Recommendations
 
@@ -226,7 +232,7 @@ Use Power BI to track vendor KPIs monthly.
 
 ## 👨‍💻 Author
 
-Pawan Kumar Prajapati
+**Pawan Kumar Prajapati**
 Data Analyst | SQL • Python • Power BI
 
 📧 Email: pawankumar231314@gmail.com
