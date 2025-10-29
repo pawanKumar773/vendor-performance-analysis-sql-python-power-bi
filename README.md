@@ -73,22 +73,29 @@ A complete data pipeline was built using:
 ## ⚙️ Project Architecture
 
 vendor-performance-analysis/
+│
 ├── README.md
-├── ingestion_db.py # Data ingestion into SQLite
-├── sale_summary_script.py # Vendor summary table creation
-├── sale_data/ # Raw CSV datasets
-│ ├── sales.csv
-│ ├── purchase.csv
-│ └── inventory.csv
+│
+├── ingestion_db.py                  # Data ingestion into SQLite
+├── sale_summary_script.py           # Vendor summary table creation
+│
+├── sale_data/                       # Raw CSV datasets
+│   ├── sales.csv
+│   ├── purchase.csv
+│   └── inventory.csv
+│
 ├── notebooks/
-│ ├── eda_Vendor_sale_summary_analysis.ipynb
-│ └── vendor_performance_Analysis.ipynb
+│   ├── eda_Vendor_sale_summary_analysis.ipynb
+│   └── vendor_performance_Analysis.ipynb
+│
 ├── dashboard/
-│ └── vendor_performance_analysis.pbix
+│   └── vendor_performance_analysis.pbix
+│
 ├── reports/
-│ └── Vendor_Performance_Analysis_Report.pdf
+│   └── Vendor_Performance_Analysis_Report.pdf
+│
 └── logs/
-└── ingestion_db.log
+    └── ingestion_db.log
 
 ---
 
