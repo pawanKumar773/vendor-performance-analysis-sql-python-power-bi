@@ -226,15 +226,17 @@ Balance high-volume (top) and high-margin (low) vendors.
 
 Reduce freight costs via better contract negotiation.
 
-Automate vendor monitoring using Python alerts.
+Clear unsold inventory strategically
 
-Use Power BI to track vendor KPIs monthly.
+Optimize bulk order strategies
 
+Reprice slow-moving, high-margin brands
 ## 👨‍💻 Author
 
 **Pawan Kumar Prajapati**
+
 Data Analyst | SQL • Python • Power BI
 
 📧 Email: pawankumar231314@gmail.com
 
-🔗 LinkedIn: Pawan Kumar Prajapati
+🔗 LinkedIn: https://www.linkedin.com/in/pawan-kumar-prajapati-3579b1217/
