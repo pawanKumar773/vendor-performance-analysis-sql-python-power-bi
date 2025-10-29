@@ -218,7 +218,7 @@ jupyter notebook notebooks/eda_Vendor_sale_summary_analysis.ipynb
 jupyter notebook notebooks/vendor_performance_Analysis.ipynb
 
 ### Step 5: View dashboard
-# Open Power BI → Load dashboard/vendor_performance_analysis.pbix
+ Open Power BI → Load dashboard/vendor_performance_analysis.pbix
 
 ## 🧭 Recommendations
 
